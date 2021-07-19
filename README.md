@@ -1,5 +1,8 @@
 # eclipse_cadShop
 
+## Attention
+This script work only for buying car, it not have cardealer job
+
 ## Requirements
 - [es_extended](https://github.com/esx-framework/es_extended/tree/v1-final)
 
