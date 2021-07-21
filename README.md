@@ -28,3 +28,5 @@ For fix bugs, when player died - make next changes in `esx_ambulancejob`
 
 ![image](https://user-images.githubusercontent.com/36680471/126147302-5f3432fc-3ec3-40c1-8115-0a16398d9ae4.png)
 
+
+https://discord.gg/8nXR6rfB2C
